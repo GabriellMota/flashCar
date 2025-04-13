@@ -34,3 +34,6 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+#Não deixo enviar essas variáveis para o git
+.env
